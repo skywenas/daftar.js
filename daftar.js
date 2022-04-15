@@ -1,4 +1,4 @@
-//Script_By_WENSAH
+//WENSAH
 var select = document.getElementById('camat');
 document.getElementById("daftar").onclick = function(){
     var value = select.value;
